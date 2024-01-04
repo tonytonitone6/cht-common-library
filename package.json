@@ -42,8 +42,5 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts",
-  "dependencies": {
-    "styled-components": "^6.0.8"
-  }
+  "types": "dist/index.d.ts"
 }
